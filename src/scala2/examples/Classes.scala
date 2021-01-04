@@ -2,6 +2,7 @@
  * Created by pedro on 7/29/15.
  */
 
+package scala2.examples
 class Person (val name:String, val age:Int){
   override def toString:String = "Person("+name+","+age+")"
 }
